@@ -1,0 +1,16 @@
+# Environment & Secrets
+venv/
+.env
+.pytest_cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/Reports/Logs
+.vscode/settings.json
+reports/
+allure-results/
+*.log
+.DS_Store
